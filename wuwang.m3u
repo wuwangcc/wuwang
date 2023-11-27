@@ -1,18 +1,32 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 group-title="4K",CCTV1 4K
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+#EXTINF:-1 group-title="4K",CCTV 4K
+https://tv.iill.top/bestv/cctv4k
+#EXTINF:-1 group-title="4K",CCTV 4K
+http://113.117.74.17:8081/hls/144/index.m3u8
+#EXTINF:-1 group-title="4K",CCTV5 4K
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1 group-title="4K",CCTV16 4K
+https://tv.iill.top/bestv/cctv164k
+#EXTINF:-1 group-title="4K",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="4K",广东4k
+http://113.117.74.17:8081/hls/145/index.m3u8
+#EXTINF:-1 group-title="4K",欢笑剧场 4k
+https://tv.iill.top/bestv/hxjc4k
+#EXTINF:-1 group-title="4K",百事通电影4K
+http://nas.jdshipin.com:8801/iptv.php?id=bst4kdy
+#EXTINF:-1 group-title="4K",百事通纪实4K
+http://nas.jdshipin.com:8801/iptv.php?id=bst4kjs
+#EXTINF:-1 group-title="4K",百事通儿童4K
+http://nas.jdshipin.com:8801/iptv.php?id=bst4ket
 #EXTINF:-1 group-title="4K",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="LoveNrture" group-title="4K",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="4K",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="4K",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="4K",CCTV16 4K
-https://tv.iill.top/bestv/cctv164k
-#EXTINF:-1 group-title="4K",CCTV 4K
-https://tv.iill.top/bestv/cctv4k
-#EXTINF:-1 group-title="4K",欢笑剧场 4k
-https://tv.iill.top/bestv/hxjc4k
 #EXTINF:-1 group-title="4K",影视 4K「移动」
 http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 group-title="IPV6·4K",爱上4K 「IPV6」
@@ -638,6 +652,8 @@ http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA368185663681856
 #EXTINF:-1 group-title="港澳台「P」",非凡新聞
 http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 #EXTINF:-1 group-title="港澳台「P」",翡翠台
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 group-title="港澳台「P」",翡翠台
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 #EXTINF:-1 group-title="港澳台「P」",星河台
 http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
@@ -717,30 +733,6 @@ http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=1787
 http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 #EXTINF:-1 group-title="•特色",未知电影之旅「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230435/1.m3u8
-#EXTINF:-1 group-title="•特色",村AB·贵州
-https://yang-1989.eu.org/live/huya/17455052
-#EXTINF:-1 group-title="•特色",斯诺克-1
-https://yang-1989.eu.org/live/huya/880214
-#EXTINF:-1 group-title="•特色",斯诺克-2
-https://yang-1989.eu.org/live/huya/880625
-#EXTINF:-1 group-title="•特色",UFC
-https://yang-1989.eu.org/live/huya/880223
-#EXTINF:-1 group-title="•特色",Deluxe Lounge HD「自然」
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&checkedby:iptvcat.com
-#EXTINF:-1 group-title="•特色",Red Bull TV「体育」
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="•特色",广东4k
-http://113.117.74.17:8081/hls/145/index.m3u8
-#EXTINF:-1 group-title="•特色",CCTV 4K
-http://113.117.74.17:8081/hls/144/index.m3u8
-#EXTINF:-1 group-title="•特色",广东卫视
-http://113.117.74.17:8081/hls/140/index.m3u8
-#EXTINF:-1 group-title="•特色",广东经济科教
-http://113.117.74.17:8081/hls/66/index.m3u8
-#EXTINF:-1 group-title="•特色",大湾区卫视
-http://113.117.74.17:8081/hls/80/index.m3u8
-#EXTINF:-1 group-title="•特色",广东珠江
-https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="•港澳台",「HK」翡翠台
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-name="翡翠台" group-title="•港澳台",「HK」翡翠台
@@ -753,10 +745,6 @@ http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/t
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-name="J2" group-title="•港澳台",「HK」J2
 http://r.jdshipin.com/Nr5jq
-#EXTINF:-1 tvg-name="无线新闻" group-title="•港澳台",「HK」无线新闻
-https://tv.iill.top/tvb/4
-#EXTINF:-1 tvg-name="无线财经体育资讯台" group-title="•港澳台",「HK」无线财经体育资讯台
-https://tv.iill.top/tvb/6
 #EXTINF:-1 tvg-name="事件直播頻道1" group-title="•港澳台",「HK」事件直播頻道1
 https://tv.iill.top/tvb/8
 #EXTINF:-1 tvg-name="事件直播頻道2" group-title="•港澳台",「HK」事件直播頻道2
@@ -885,8 +873,6 @@ https://tv.iill.top/bestv/ynws
 https://tv.iill.top/bestv/gzws
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="•卫视「Best」",海南卫视
 https://tv.iill.top/bestv/hnws
-#EXTINF:-1 group-title="•数字「Best」",五星体育
-https://tv.iill.top/bestv/wxty
 #EXTINF:-1 group-title="•数字「Best」",东方财经
 https://tv.iill.top/bestv/dfcj
 #EXTINF:-1 group-title="•数字「Best」",上海第一财经
@@ -923,10 +909,6 @@ https://tv.iill.top/bestv/bbdh
 https://tv.iill.top/bestv/dmxc
 #EXTINF:-1 group-title="•数字「Best」",欢笑剧场
 https://tv.iill.top/bestv/hxjc
-#EXTINF:-1 group-title="•数字「Best」",劲爆体育
-https://tv.iill.top/bestv/jbty
-#EXTINF:-1 group-title="•数字「Best」",超级体育
-https://tv.iill.top/bestv/cjty
 #EXTINF:-1 group-title="•数字「Best」",快乐垂钓
 https://tv.iill.top/bestv/klcd
 #EXTINF:-1 group-title="•数字「Best」",金鹰纪实
@@ -1177,6 +1159,14 @@ https://tv.iill.top/cqyx/gushi
 https://tv.iill.top/cqyx/sheying
 #EXTINF:-1 group-title="•地区",爱看导视
 https://tv.iill.top/cqyx/aikanHD
+#EXTINF:-1 group-title="•地区",「广东」广东卫视
+http://113.117.74.17:8081/hls/140/index.m3u8
+#EXTINF:-1 group-title="•地区",「广东」广东经济科教
+http://113.117.74.17:8081/hls/66/index.m3u8
+#EXTINF:-1 group-title="•地区",「广东」大湾区卫视
+http://113.117.74.17:8081/hls/80/index.m3u8
+#EXTINF:-1 group-title="•地区",「广东」广东珠江
+https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="•地区",重广融媒
 https://tv.iill.top/cqyx/cqrongmei
 #EXTINF:-1 group-title="•地区",﻿重庆卫视
@@ -2093,6 +2083,26 @@ http://ip2121.com:8081/live/cnn/playlist.m3u8
 http://video.oct.dc.gov/out/u/15_12.m3u8
 #EXTINF:-1 group-title="•国际",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="•体育",村AB·贵州
+https://yang-1989.eu.org/live/huya/17455052
+#EXTINF:-1 group-title="•体育",斯诺克-1
+https://yang-1989.eu.org/live/huya/880214
+#EXTINF:-1 group-title="•体育",斯诺克-2
+https://yang-1989.eu.org/live/huya/880625
+#EXTINF:-1 group-title="•体育",UFC
+https://yang-1989.eu.org/live/huya/880223
+#EXTINF:-1 group-title="•体育",Red Bull TV「体育」
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="•体育",五星体育
+https://tv.iill.top/bestv/wxty
+#EXTINF:-1 group-title="•体育",劲爆体育
+https://tv.iill.top/bestv/jbty
+#EXTINF:-1 group-title="•体育",超级体育
+https://tv.iill.top/bestv/cjty
+#EXTINF:-1 tvg-name="CCTV5" group-title="•体育",CCTV5 体育
+https://tv.iill.top/cqyx/cctv5HD
+#EXTINF:-1 group-title="•地区",「安徽」安徽综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
 #EXTINF:-1 group-title="•动物世界",爱吃鱼的棕熊
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/79c7bb4495f74ca698f3111a6f7ba567/1200.m3u8
 #EXTINF:-1 group-title="•动物世界",爱的奉献1
