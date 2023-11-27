@@ -80,47 +80,6 @@ CCTV-16,https://tv.iill.top/cqyx/CCTV16_4K
 时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 华数,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 
-数字频道,#genre#
-东方财经,https://tv.iill.top/bestv/dfcj
-上海第一财经,https://tv.iill.top/bestv/dycj
-上海新闻综合,https://tv.iill.top/bestv/shxwzh
-上海都市,https://tv.iill.top/bestv/shds
-上海纪实,https://tv.iill.top/bestv/shjsrw
-东方影视,https://tv.iill.top/bestv/dfys
-华语影院,https://tv.iill.top/bestv/hyyy
-星光影院,https://tv.iill.top/bestv/xgyy
-谍战剧场,https://tv.iill.top/bestv/dzjc
-全球大片,https://tv.iill.top/bestv/qqdp
-热门剧场,https://tv.iill.top/bestv/rmjc
-都市剧场,https://tv.iill.top/bestv/dsjc
-卡酷少儿,https://tv.iill.top/bestv/bjkk
-炫动卡通,https://tv.iill.top/bestv/hhxd
-青春动漫,https://tv.iill.top/bestv/qcdm
-宝宝动画,https://tv.iill.top/bestv/bbdh
-动漫秀场,https://tv.iill.top/bestv/dmxc
-欢笑剧场,https://tv.iill.top/bestv/hxjc
-快乐垂钓,https://tv.iill.top/bestv/klcd
-金鹰纪实,https://tv.iill.top/bestv/jyjs
-戏曲精选,https://tv.iill.top/bestv/xqjx
-上海ICS,https://tv.iill.top/bestv/shics
-七彩戏剧,https://tv.iill.top/bestv/qcxj
-上海教育,https://tv.iill.top/bestv/shjy
-全纪实,https://tv.iill.top/bestv/qjs
-生活时尚,https://tv.iill.top/bestv/shss
-新视觉,https://tv.iill.top/bestv/xsj
-游戏风云,https://tv.iill.top/bestv/yxfy
-热门综艺,https://tv.iill.top/bestv/rmzy
-健康养生,https://tv.iill.top/bestv/jkys
-百变课堂,https://tv.iill.top/bestv/bbkt
-看天下精选,https://tv.iill.top/bestv/ktxjx
-电竞天堂,https://tv.iill.top/bestv/djtt
-陶瓷频道,https://tv.iill.top/bestv/tcpd
-北京纪实科教,https://tv.iill.top/bestv/bjjsk
-茶频道,https://tv.iill.top/bestv/cpd
-足球高清,https://tv.iill.top/bestv/zqpd
-法治天地,https://tv.iill.top/bestv/fztd
-金色学堂,https://tv.iill.top/bestv/jspd
-魅力足球,https://tv.iill.top/bestv/mlzq
 
 
 
@@ -179,9 +138,6 @@ RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 「电影」猪猪侠•英雄猪少年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 「电影」大卫贝肯•倒霉特工熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 「电影」昆塔•反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-宝宝巴士,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key
-宝宝课堂,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key
-贝瓦儿歌,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c56_lb_188_600_t10/c56_lb_188_600_t10.m3u8?key
 成都大熊猫繁育研究基地,https://gcwbcdtxy.liveplay.myqcloud.com/gcwbcd/cdrmipanda_1/index.m3u8
 漫画说历史,https://yang-1989.eu.org/live/huya/20985824
 「轮播」二次元动画,http://tc-tct.douyucdn2.cn/dyliveflv1a/206858rtesHKjl.flv?wsAuth=9eaefce6cc13570baaeff857204a4d5c&token=cpn-androidmpro-0-206858-355488b41ed19088c77925a51949944b3aeedf4a96fd30f8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -193,12 +149,9 @@ CCTV-14 少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/
 山东少儿,http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-卡酷少儿,https://tv.iill.top/bestv/bjkk
 喜仔的动画世界，https://yang-1989.eu.org/live/huya/20036751
 炫动卡通,https://tv.iill.top/bestv/hhxd
 青春动漫,https://tv.iill.top/bestv/qcdm
-宝宝动画,https://tv.iill.top/bestv/bbdh
-动漫秀场,https://tv.iill.top/bestv/dmxc
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
 
