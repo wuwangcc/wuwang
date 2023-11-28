@@ -210,27 +210,21 @@ https://tv.iill.top/bestv/qcdm
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 group-title="港台频道",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 group-title="港台频道",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 group-title="港台频道",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 group-title="港台频道",翡翠台
-http://r.jdshipin.com/n90gt
-#EXTINF:-1 group-title="港台频道",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 group-title="港台频道",翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-#EXTINF:-1 group-title="港台频道",明珠台
-http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
-#EXTINF:-1 group-title="港台频道",凤凰中文
 http://113.117.74.17:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="港台频道",凤凰资讯
 http://113.117.74.18:8081/hls/36/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 group-title="港台频道",凤凰香港
 http://113.117.74.18:8081/hls/38/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://r.jdshipin.com/n90gt
+http://r.jdshipin.com/62WM7
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1 group-title="港台频道",明珠台
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 #EXTINF:-1 group-title="港台频道",J2
 http://r.jdshipin.com/ndGgS
-#EXTINF:-1 group-title="港台频道",J2
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 group-title="港台频道",大爱2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -308,11 +302,9 @@ http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&
 http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 #EXTINF:-1 group-title="港台频道",八大戲劇
 http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-#EXTINF:-1 group-title="港台频道",八大戲劇
 http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
 #EXTINF:-1 group-title="港台频道",八大綜合
 http://50.7.238.114:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 group-title="港台频道",八大綜合
 http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 #EXTINF:-1 group-title="港台频道",博斯高球1
 http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
@@ -322,13 +314,10 @@ http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct
 http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
 #EXTINF:-1 group-title="港台频道",博斯網球
 http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 group-title="港台频道",博斯網球
 http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-#EXTINF:-1 group-title="港台频道",博斯網球
 http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 #EXTINF:-1 group-title="港台频道",博斯運動2
 http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-#EXTINF:-1 group-title="港台频道",博斯運動2
 http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
 #EXTINF:-1 group-title="港台频道",大愛電視
 http://50.7.238.114:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
@@ -348,37 +337,29 @@ http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&
 http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
 #EXTINF:-1 group-title="港台频道",靖天國際台
 http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
-#EXTINF:-1 group-title="港台频道",靖天國際台
 http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
 #EXTINF:-1 group-title="港台频道",靖天卡通
 http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-#EXTINF:-1 group-title="港台频道",靖天卡通
 http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 #EXTINF:-1 group-title="港台频道",民視臺灣
 http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 #EXTINF:-1 group-title="港台频道",時尚台FTV
 http://50.7.238.114:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
-#EXTINF:-1 group-title="港台频道",時尚台FTV
 http://198.16.100.90:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
-#EXTINF:-1 group-title="港台频道",時尚台FTV
 http://198.16.100.90:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
 #EXTINF:-1 group-title="港台频道",探索頻道
 http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-#EXTINF:-1 group-title="港台频道",探索頻道
 http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 #EXTINF:-1 group-title="港台频道",探索亞洲
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-#EXTINF:-1 group-title="港台频道",探索亞洲
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 #EXTINF:-1 group-title="港台频道",衛視中文
 http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
 #EXTINF:-1 group-title="港台频道",中視經典
 http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
-#EXTINF:-1 group-title="港台频道",中視經典
 http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 #EXTINF:-1 group-title="港台频道",中天娛樂
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-#EXTINF:-1 group-title="港台频道",中天娛樂
 http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 #EXTINF:-1 group-title="港台频道",中天綜合
 http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
@@ -453,6 +434,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
 #EXTINF:-1 group-title="卫视频道",厦门卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 #EXTINF:-1 group-title="地方频道",广东民生
+https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=d9dbb378cbe75291d1615bfeaa3149ef-U1ELZqc9pGQB6D6XxjsNCuUOBI26M4r%2F1L801VZYUr7lljQQmW%2FixzPCF4gSRDYGSdq8p4quEIPHUcxBywIetpoBFCcpZTDej7LzF1E1TyKP53%2FWeeensUmgD46%2BnQB4AB2xNAQJE%2BUNoc4xMWW2NWShv9KKiXym1E2JXZoBjZHG1Ex9z0rgcgxT8zlqFqkOKNpVvRVGgGb7WpoCjyiYCjXfphgKIQVGZdjBBbH8oNIf5hE0hWszM1IVnw8EumpWbZ2Oh3pwMbk652bJxNp5z%2FsnX2Velk9fda1OiCJd7AbC7ZDiAGMR5KAA8Z%2FM0T%2FfdU1ZjZvPnKGEYXQCrsG1736AF%2FMa2eNGiZRKU9U78GL9iZ%2F5lEawYLkknAxgwQTzQlByClfGvXQzsX7Im%2Bp11ofdEYkWSiNsOc3YtVFnMictQ2HLoCLOOCFQaYFtwtwha1rwW1aju%2B82tTkwNF4gYA%3D%3D
 http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel45/index.m3u8
 #EXTINF:-1 group-title="地方频道",广东经济科教
 http://113.117.74.17:8081/hls/66/index.m3u8
