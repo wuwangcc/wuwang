@@ -1,7 +1,6 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 ,CCTV-1 综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-#EXTINF:-1 ,CCTV-1 综合
 https://tv.iill.top/cqyx/cctv1HD
 #EXTINF:-1 ,CCTV-2 财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
