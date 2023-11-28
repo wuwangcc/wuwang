@@ -1,4 +1,4 @@
-央视频道
+央视频道,#genre#
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-1 综合,https://tv.iill.top/cqyx/cctv1HD
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
@@ -62,7 +62,7 @@ CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
-4K频道
+4K频道,#genre#
 CCTV-1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV,https://tv.iill.top/bestv/cctv4k
 CCTV2,http://113.117.74.17:8081/hls/144/index.m3u8
@@ -76,7 +76,7 @@ CCTV-16,https://tv.iill.top/bestv/cctv164k
 自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 华数,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 
-国际频道
+国际频道,#genre#
 「CA」 CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 「CA」 CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 「CA」 TheShoppingChannel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -106,7 +106,7 @@ RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 
 
-少儿频道
+少儿频道,#genre#
 「电影」棉花糖和云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 「电影」熊出没•变形记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 「电影」熊出没•过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
@@ -124,7 +124,7 @@ RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 青春动漫,https://tv.iill.top/bestv/qcdm
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
-港台频道
+港台频道,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
@@ -214,7 +214,7 @@ TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C935847339358473
 中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 
 
-卫视频道
+卫视频道,#genre#
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
@@ -252,7 +252,7 @@ TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C935847339358473
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 
 
-地方频道
+地方频道,#genre#
 广东民生,https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=16fccceee5e09f6365fa79952b39dfe9-a3LirBFX9TyjHSOa1oDEpBMJKoxavo7pypYjtQFvXBKHcoAkKZZBZiwwqKq4gYtdRM%2BwthPQ%2BYmGExg7MPHqMup6rMZutXDwBy7dVbNCS3AAxIhdhDZ2Xf%2BiaBSKHRMiOqJ5ie8L9FpMc4KkDB3f%2Bb420u0MwBztY%2FzrsAmuHPM3gFvAvVjQ7Ub3VuXOfaE3kFfoI6oGLcV8RgwtPaEUBY%2BBkGQn%2BlXfhHuXIWR5rHx0pZUjDcR8dhuGQvYE5IO5ECXRPl1R7nAYe1XD56mwPlq7X3XKnrS63Kdcz5WfP0FM0Kbz5yqWb17cuYj2uGZPZgRSpqkA7pcNpNFDn64obQKvm6XjOeXL4q%2FBtbXWjIbtnPztOwzgjQsuNJQIJUxUm8CCw2SM0YdQlYhODRp6B9EvJD%2FXqXsZ95U9%2FxoeJ2AYBBo%2FGT%2BJtZ91GJkMBfoPHK%2FpThrscUY5r4tMRteTLQ%3D%3D
 广东民生,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel45/index.m3u8
 广东经济科教,http://113.117.74.17:8081/hls/66/index.m3u8
@@ -510,7 +510,7 @@ TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C935847339358473
 快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 
 
-NewTV系列
+NewTV系列,#genre#
 超级综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -542,7 +542,7 @@ NewTV系列
 
 
 
-动物世界
+动物世界,#genre#
 爱吃鱼的棕熊,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/79c7bb4495f74ca698f3111a6f7ba567/1200.m3u8
 爱的奉献1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5b062ba2cd854ba993166d277af8a40d/1200.m3u8
 爱的奉献2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/80cf935aef484e15aa31b8fbd565be39/1200.m3u8
